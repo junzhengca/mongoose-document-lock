@@ -2,6 +2,8 @@
 
 Easy to use document lock plugin for mongoose. Both in-memory lock and Redis lock.
 
+If you are implementing this lock, it is usually a good idea to remove the `versionKey` field in your schema, since you don't need an optimistic lock if you are using this library.
+
 ## Install
 
 ```
