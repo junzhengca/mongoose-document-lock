@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-document-lock",
+  "name": "mongoose-schema-lock",
   "version": "0.0.1",
   "description": "Distributed document lock for Mongoose",
   "main": "index.js",
