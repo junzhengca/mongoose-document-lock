@@ -8,6 +8,8 @@ Easy to use document lock plugin for mongoose. Both in-memory lock and Redis loc
 $ npm install mongoose-schema-lock
 ```
 
+> Unfortunately mongoose-document-lock is taken :(
+
 Then in your code
 
 ```js
